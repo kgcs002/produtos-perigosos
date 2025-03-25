@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Consulta de Produtos Perigosos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🚛 Consulta de Produtos Perigosos</h1>
+
+    <input type="number" id="codigoInput" placeholder="Digite o número ONU">
+    <button class="btn" onclick="buscarPorONU()">Buscar por Número ONU</button>
+
+    <input type="number" id="riscoInput" placeholder="Digite o número de Risco">
+    <button class="btn" onclick="buscarPorRisco()">Buscar por Número de Risco</button>
+
+    <button class="btn limpar" onclick="limparResultado()">Limpar Resultado</button>
+
+    <div id="resultado"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
