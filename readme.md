@@ -2,8 +2,8 @@
 # 🚛 Projeto de Desenvolvimento Web - Kauan Sasaqui
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Avançado-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediário-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-HTML-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 Olá! Meu nome é **Kauan** e estou começando agora a minha jornada no desenvolvimento web. ✨
