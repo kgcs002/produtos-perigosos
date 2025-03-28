@@ -25,7 +25,7 @@ O foco deste repositório é organizar e mostrar os meus primeiros projetos e ap
 
 1. Clone este repositório para sua máquina local:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/kgcs002/produtos-perigosos.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar o projeto. 🌐
@@ -41,4 +41,4 @@ Você pode entrar em contato comigo através do e-mail: [kauansasaqui@gmail.com]
 ---
 
 > **Kauan Sasaqui**  
-> *Desenvolvedor em início de jornada, querendo expandir meus conhecimentos.* ✨
+> *Desenvolvedor Júnior, buscando aprendizado e novas oportunidades* ✨
