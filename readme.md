@@ -23,12 +23,7 @@ O foco deste repositório é organizar e mostrar os meus primeiros projetos e ap
 
 ## 💻 Como você pode rodar o projeto?
 
-1. Clone este repositório para sua máquina local:
-```bash
-git clone https://github.com/kgcs002/produtos-perigosos.git
-```
-
-2. Abra o arquivo `index.html` no seu navegador para visualizar o projeto. 🌐
+https://produtos-perigosos.vercel.app/ 🌐
 
 ## 🤝 Contribuições:
 
